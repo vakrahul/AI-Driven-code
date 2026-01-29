@@ -5,7 +5,7 @@ An automated assistant for code analysis, error detection, and optimization sugg
 ---
 
 
-## 📌 About the Project
+##  About the Project
 
 The **AI-Driven Code Reviewer** is a web-based application designed to help developers improve Python code quality efficiently.  
 It leverages **Large Language Models (LLMs)** and **static code analysis techniques** to detect errors, enforce best practices, and provide intelligent optimization suggestions.
@@ -19,7 +19,7 @@ This tool aims to simulate an intelligent code reviewer that assists developers 
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Automated Code Analysis**
   - Parses Python code to understand logic and structure
@@ -50,26 +50,26 @@ This tool aims to simulate an intelligent code reviewer that assists developers 
 - **API Provider:** Hugging Face Inference API  
 
 ---
-## 📂 Project Structure
+##  Project Structure
 
 Here is an overview of the key files in the repository:
 
 ```text
-📂 AI-Driven-Code-Reviewer
+ AI-Driven-Code-Reviewer
 ├── 📄 app.py                  # Main entry point for the Streamlit application
 ├── 📄 ai_suggester.py         # Interface with Hugging Face API for suggestions
 ├── 📄 code_parser.py          # Handles parsing of Python code (AST)
 ├── 📄 error_detector.py       # Identifies syntax and logical errors
 ├── 📄 style_checker.py        # Checks code for style and PEP-8 compliance
 ├── 📄 requirements.txt        # List of Python dependencies
-└── 📄 logo.png                # Project logo
+
 ```
 ---
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/rahulvakiti/AI-Driven-Code-Reviewer.git  
-cd AI-Driven-Code-Reviewer  
+git clone https://github.com/vakrahul/AI-Driven-code.git
+cd AI-Driven-Code
 
 ### 2️⃣ Set Up Virtual Environment
 python -m venv venv  
