@@ -110,5 +110,5 @@ Use the chat interface for code-specific doubts
 ### 👨‍💻 Author
 
 Rahul Vakiti  
-Role: Intern at Infosys Springboard  
+
 
